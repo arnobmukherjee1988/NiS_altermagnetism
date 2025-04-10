@@ -1,0 +1,1 @@
+# NiS_altermagnetism
