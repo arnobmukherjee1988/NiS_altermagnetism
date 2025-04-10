@@ -7,7 +7,7 @@ This project implements a tight-binding simulation of NiS based on the Slater-Ko
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Construct a Slater-Koster-based Hamiltonian to study **altermagnetic spin splitting (ASS)**.
 - Model orbital-resolved hopping between Ni-d and S-p orbitals.
@@ -15,7 +15,7 @@ This project implements a tight-binding simulation of NiS based on the Slater-Ko
 
 ---
 
-## ⚙️ Features
+## Features
 
 - **Spin-resolved 8×8 Hamiltonian** using Slater-Koster terms.
 - Modular hopping definitions via a symbolic `lambda` registry.
@@ -24,7 +24,7 @@ This project implements a tight-binding simulation of NiS based on the Slater-Ko
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 | File                | Role |
 |---------------------|------|
@@ -37,7 +37,7 @@ This project implements a tight-binding simulation of NiS based on the Slater-Ko
 
 ---
 
-## 🧩 Supported Orbital Combinations
+## Supported Orbital Combinations
 
 Includes (and expandable):
 - `dxy_{px, py, pz}`, `dyz_{px, py, pz}`
@@ -45,14 +45,14 @@ Includes (and expandable):
 
 ---
 
-## 📈 Target Figures
+## Target Figures
 
 - **Fig. 6:** AFM band structure without S–S′ coupling
 - **Fig. 7:** Altermagnetic band structure with S–S′ hybridization
 
 ---
 
-## 🧠 Designed for
+## Designed for
 
 - Testing chemical symmetry and orbital hybridization effects
 - Exploring tight-binding models with realistic SK hopping
