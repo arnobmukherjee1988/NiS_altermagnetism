@@ -1,0 +1,28 @@
+{
+  "a": 3.437,
+  "b": 3.437,
+  "c": 5.345,
+  "tns_sigma": -1.42,
+  "tns_pi": 0.42,
+  "ts_sigma2": 1.112,
+  "ts_pi2": -0.325,
+  "Delta_Ni": 1.5,
+  "epsilon_Ni": -1.85,
+  "epsilon_S": -4.69,
+  "orbital1": "dxz",
+  "orbital2": "px",
+  "hopping_sign": 2,
+  "R_Ni_S": [
+  ["a/2", "a/(2*sqrt(3))", "-c/4"],
+  ["-a/2", "a/(2*sqrt(3))", "-c/4"],
+  ["0", "-a/sqrt(3)", "-c/4"]
+  ],
+  "R_Nip_S": [
+  ["a/2", "a/(2*sqrt(3))", "c/4"],
+  ["-a/2", "a/(2*sqrt(3))", "c/4"],
+  ["0", "-a/sqrt(3)", "c/4"]
+  ],
+  "k_Lp": ["a_star/2", 0.0, "-c_star/2"],
+  "k_Gamma": [0.0, 0.0, 0.0],
+  "k_L": ["a_star/2", 0.0, "c_star/2"]
+}
